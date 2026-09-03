@@ -1,0 +1,99 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-05-13T02:27:31
+
+BeginCmp
+TimeStamp = 11d0d787-90f5-4e0e-824b-11c98105470e
+Path = /5a660cee-a039-4ca0-abc3-33fb528a5792
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 87396905-4bb6-4d7c-9e6f-d934cb1e007f
+Path = /3c6e5ce6-ba46-410b-947b-b8d21dbe02da
+Reference = C3;
+ValeurCmp = 220uF;
+IdModule  = Capacitor_SMD:CP_Elec_8x6.5;
+EndCmp
+
+BeginCmp
+TimeStamp = d75bca05-36ff-4402-99ca-fd02b409cc3b
+Path = /d2a735da-825c-4609-9362-075ff6d984a4
+Reference = Q1;
+ValeurCmp = PMOS;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 97d544d3-f5b3-4b25-80d4-2c674e113f1e
+Path = /880879de-8fcb-4a05-a2d6-c37cfc2428af
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = ee4e0f91-6e65-4a39-9038-c400502c7980
+Path = /29f0ca66-fe4f-437a-8619-b0f605b21333
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = Capacitor_SMD:CP_Elec_6.3x5.4;
+EndCmp
+
+BeginCmp
+TimeStamp = bdc82759-9c51-4593-9923-64cb295a87b8
+Path = /b37e1897-b6eb-4de1-8b73-435b411ddd4d
+Reference = U1;
+ValeurCmp = LM2576S-3.3;
+IdModule  = Package_TO_SOT_SMD:TO-263-5_TabPin3;
+EndCmp
+
+BeginCmp
+TimeStamp = 089024f6-268e-40ca-ae7c-cf4c30a7143f
+Path = /f4d94d8a-3d96-425f-829e-bff1a2687957
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = a8095e0f-989c-4bad-97c0-1efee6b9a490
+Path = /47df84c2-ceb0-42bc-9e57-fc0a5563b598
+Reference = L1;
+ValeurCmp = 100uH;
+IdModule  = Inductor_SMD:L_Bourns_SRF1260;
+EndCmp
+
+BeginCmp
+TimeStamp = b7987b02-8dd7-40d3-a40b-53081b742b99
+Path = /db8659a1-553a-4f34-9b6b-36f346d4a3ca
+Reference = J2;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = bb5d21ed-2a1e-4a1e-84d6-0f2ba08caba8
+Path = /aa4afd62-a84d-4e69-9cd2-f7414c6ad36b
+Reference = J1;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 3692b5a8-c0f0-40ae-9b75-70572d014627
+Path = /47b3360f-ea4e-46d4-9cc2-5f8d7e254248
+Reference = D2;
+ValeurCmp = 15V;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 0a6b6bc8-02c6-4737-b5f0-76141bdb5cb7
+Path = /c11ae7e8-8833-4db9-a4ff-a2c30eff388f
+Reference = D1;
+ValeurCmp = D_Schottky;
+IdModule  = Diode_SMD:D_SMA;
+EndCmp
+
+EndListe

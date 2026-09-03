@@ -1,0 +1,18 @@
+### Footprint positions - created on 2026-05-13T02:21:51 ###
+### Printed by KiCad version 10.0.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                                            PosX       PosY       Rot  Side
+C1        100uF                 CP_Elec_6.3x5.4                                                135.3100   -83.6508   90.0000  top
+C2        100nF                 C_0603_1608Metric                                              165.9926  -100.3800  180.0000  top
+C3        220uF                 CP_Elec_8x6.5                                                  144.7676  -108.9800    0.0000  top
+C4        100nF                 C_0603_1608Metric                                              141.9926   -99.7800    0.0000  top
+D1        D_Schottky            D_SMA                                                          141.8676   -89.4800   90.0000  top
+D2        15V                   SOT-23                                                         167.3676  -104.2425  -90.0000  top
+J1        Screw_Terminal_01x02  TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal   162.5100  -117.5732    0.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal   130.5676  -117.1800    0.0000  top
+L1        100uH                 L_Bourns_SRF1260                                               131.1176   -99.8650  -90.0000  top
+Q1        PMOS                  SOT-23                                                         166.8176  -109.9800  -90.0000  top
+R1        10k                   R_0402_1005Metric                                              163.0576  -107.7800  180.0000  top
+U1        LM2576S-3.3           TO-263-5_TabPin3                                               156.4926   -92.9550    0.0000  top
+## End
